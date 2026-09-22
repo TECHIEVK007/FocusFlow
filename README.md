@@ -83,6 +83,8 @@ lib/
 - [ ] AI-powered Task Prioritization
 - [ ] Advanced Productivity Heatmaps
 
-Developer
-Sahu Tech
-Designed and Developed by Sahu Tech
+## Developer
+
+### Sahu Tech
+
+**Designed and Developed by Sahu Tech**
